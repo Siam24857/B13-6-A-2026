@@ -36,6 +36,9 @@ function App() {
 export default App;
 
 
+// all data fetching is compelting by react.
+
+
 
 
 // ### 📂 GitHub Repository
