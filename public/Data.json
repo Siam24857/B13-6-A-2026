@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Kit",
+    "description": "Basic resume templates for beginners with simple customization.",
+    "price": 9.99,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["20+ templates", "Easy customization", "Export to PDF"],
+    "icon": "writing_23.png"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "Advanced resume builder with ATS-friendly formatting.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "operation.png"
+  },
+  {
+    "id": 3,
+    "name": "Career Growth Plan",
+    "description": "Monthly plan with resume reviews and career tips.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Resume feedback", "Career tips", "Email support"],
+    "icon": "portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Website Builder",
+    "description": "Create a professional portfolio website easily.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Custom domains", "Responsive design", "Drag & drop builder"],
+    "icon": "shopping-cart.png"
+  },
+  {
+    "id": 5,
+    "name": "Interview Prep Pack",
+    "description": "Comprehensive guide and tools to prepare for interviews.",
+    "price": 14.99,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Mock questions", "Answer guides", "Video tips"],
+    "icon": "social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "Premium Career Suite",
+    "description": "All-in-one yearly subscription for career development.",
+    "price": 79.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Unlimited resumes", "Portfolio builder", "Priority support"],
+    "icon": "design-tool.png"
+  }
+]
