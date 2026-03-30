@@ -110,7 +110,9 @@ const Pricsection = () => {
                                        Contact Sales
                                     </button>
                                 </div>
-                                 
+                                 <div>
+                                    
+                                 </div>
                               
                             </div>
             </div>

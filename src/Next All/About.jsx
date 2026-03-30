@@ -23,3 +23,6 @@ const About = () => {
 };
 
 export default About;
+
+
+//compelet the about

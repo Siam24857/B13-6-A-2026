@@ -58,7 +58,9 @@ const Stepsectio = () => {
                     <h3 className='text-3xl font-bold text-center'>Create Account</h3>
                     <p className='text-[#627382] text-center'>Sign up for free in seconds. No credit card required to get started.</p>
                 </div>
-              
+              <div>
+                
+              </div>
                  
              </div>
              </div>
