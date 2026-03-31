@@ -10,8 +10,8 @@ const Pricsection = () => {
             <div className='mb-[120px]'>
 
                 <div className='pt-[120px] mb-10'>
-            <h4 className='text-3xl font-bold text-center '>Get Started in 3 Steps</h4>
-            <p className='text-center text-[#627382] mt-4'>Start using premium digital tools in minutes, not hours.</p>
+            <h4 className='text-5xl font-bold text-center '>Simple, Transparent Pricing</h4>
+            <p className='text-center text-[#627382] mt-4'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
              </div>
                 <div className='container mx-auto grid grid-cols-1 md:grid-cols-3 gap-6'>
                                 <div className='p-6 space-y-6 border border-blue-50 rounded-2xl'>

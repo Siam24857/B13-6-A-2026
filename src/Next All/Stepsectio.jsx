@@ -8,7 +8,7 @@ const Stepsectio = () => {
         <div className='bg-[#F9FAFC]'>
             <div className='mt-[120px] pb-[120px]'>
                 <div className='pt-[120px]'>
-            <h4 className='text-3xl font-bold text-center '>Get Started in 3 Steps</h4>
+            <h4 className='text-5xl font-bold text-center '>Get Started in 3 Steps</h4>
             <p className='text-center text-[#627382] mt-4'>Start using premium digital tools in minutes, not hours.</p>
              </div>
 
@@ -26,7 +26,7 @@ const Stepsectio = () => {
                     </div>
                     </div>
                     <h3 className='text-3xl font-bold text-center'>Create Account</h3>
-                    <p className='text-[#627382] text-center'>Sign up for free in seconds. No credit card required to get started.</p>
+                    <p className='text-[#627382] text-center'>Sign up for free in seconds. No credit card <br></br>required to get started.</p>
                 </div>
 
                 <div className='space-y-4 p-6 border border-blue-50 bg-[#F1F1F1]  rounded-2xl shadow-xl'>
@@ -40,8 +40,8 @@ const Stepsectio = () => {
                         <img src={roketimg2} alt="" />
                     </div>
                     </div>
-                    <h3 className='text-3xl font-bold text-center'>Create Account</h3>
-                    <p className='text-[#627382] text-center'>Sign up for free in seconds. No credit card required to get started.</p>
+                    <h3 className='text-3xl font-bold text-center'>Choose Products</h3>
+                    <p className='text-[#627382] text-center'>Browse our catalog and select the tools <br></br>  that fit your needs.</p>
                 </div>
 
                 <div className='space-y-4 p-6 border border-blue-50 bg-[#F1F1F1]  rounded-2xl'>
@@ -55,8 +55,8 @@ const Stepsectio = () => {
                         <img src={roketimg} alt="" />
                     </div>
                     </div>
-                    <h3 className='text-3xl font-bold text-center'>Create Account</h3>
-                    <p className='text-[#627382] text-center'>Sign up for free in seconds. No credit card required to get started.</p>
+                    <h3 className='text-3xl font-bold text-center'>Start Creating</h3>
+                    <p className='text-[#627382] text-center'>Download and start using your premium<br></br> tools immediately.</p>
                 </div>
               <div>
                 
